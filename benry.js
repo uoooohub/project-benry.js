@@ -1,3 +1,4 @@
+// benry.js
 var benry=function(obj){
 	return new benry.prototype.init(obj);
 }
